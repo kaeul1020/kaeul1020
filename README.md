@@ -21,4 +21,4 @@
 Data Augmentation
 
 **Framework & Tool**<br>
-TensorFlow, PyTorch, Docker
+: TensorFlow, PyTorch, Docker
