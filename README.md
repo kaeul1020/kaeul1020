@@ -1,5 +1,5 @@
 ## ✨ About Me
-안녕하세요! 2년차 AI Engineer 가을입니다✌️ <br> 
+안녕하세요! 2년차 AI Research Engineer 가을입니다✌️ <br> 
 끊임없이 도전하고 목표를 달성하도록 노력하고 있습니다. 피드백은 언제나 환영입니다!
 <br>
 <br>
