@@ -13,15 +13,15 @@
 <br>
 <br>
 ## 📚 Skills
+**Natural Language Processing**<br>
+: `Text Generation`
+
 **Multimodal Machine Learning**<br>
-: Feature extraction, Feature fusion, Predicting
+: `Feature extraction`, `Feature fusion`, `Predicting`
 
 **Computer Vision**<br>
-: Semantic Segmentation, Image classification, Autoencoder,
-Data Augmentation
+: `Semantic Segmentation`, `Image classification`, `Autoencoder`,`Data Augmentation`
 
-**Natural Language Processing**<br>
-: Text Generation
 
 **Framework & Tool**<br>
-: TensorFlow, PyTorch, Docker
+: `TensorFlow`, `PyTorch`, `LangChain`, `LangGraph`, `vLLM`, `FastAPI`, `Docker`, `GCP`
